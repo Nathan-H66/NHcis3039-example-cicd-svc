@@ -15,7 +15,7 @@ export const getProductRepo = (): ProductRepo => {
         name: 'Seeded Widget',
         pricePence: 1299,
         description:
-          'Edit 2 (workflows enabled this time) made to demo workflow results.',
+          'Edit 3 (workflows enabled this time) made to demo workflow results.',
         updatedAt: new Date(now.getTime() - 1000 * 60 * 60 * 24), // 1 day ago
       },
       {
